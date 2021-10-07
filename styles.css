@@ -1,0 +1,38 @@
+img {
+  background-color: gold;
+  border-radius: 200px;
+  height: 140PX;
+  width: 140PX;
+}
+
+body {
+  background-color: black;
+  color: white;
+  word-spacing: 3px;
+}
+
+h1{
+  color: #B8DFD8;
+  text-decoration: underline;
+}
+
+h2 {
+  color: red;
+  text-decoration: underline;
+}
+
+h3 {
+  line-height: 1.6;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  width: 50%;
+  border-color: white;
+  border-width: 3px;
+}
+/* we use# for id selector*/
+#heading{
+  color: #B8DFD8;
+}
